@@ -1,11 +1,15 @@
-# Hello, I'm Arthur Azevedo
+# Olá, me chamo Arhtur Azevêdo
+Hello, my name is Arthur Azevêdo
+##
+Sou Técnico em Informática pelo IFRN - Caicó e atualmente curso Sistemas de Informação pela UFRN - Caicó
 
+I am a Computer Technician at IFRN - Caicó and currently I am studying Information Systems at UFRN - Caicó
 # MY STATS
 
 [![](https://raw.githubusercontent.com/arthurazvd/arthurazvd/master/profile-summary-card-output/codeSTACKr/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/arthurazvd/arthurazvd/master/profile-summary-card-output/codeSTACKr/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/arthurazvd/arthurazvd/master/profile-summary-card-output/codeSTACKr/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/arthurazvd/arthurazvd/master/profile-summary-card-output/codeSTACKr/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/arthurazvd/arthurazvd/master/profile-summary-card-output/codeSTACKr/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
+##
 <div> 
   <a href="https://instagram.com/arthuazvd" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:azvd.arthur@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
