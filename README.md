@@ -1,4 +1,4 @@
-# Olá, me chamo Arhtur Azevêdo
+# Olá, me chamo Arthur Azevêdo
 Hello, my name is Arthur Azevêdo
 ##
 Sou Técnico em Informática pelo IFRN - Caicó e atualmente curso Sistemas de Informação pela UFRN - Caicó
